@@ -1,2 +1,2 @@
-# Coding-Challenges-By-John-Cricket
-Coding challenges by John Cricket | https://codingchallenges.substack.com/
+# Coding-Challenges-By-John-Crickett
+Coding challenges by John Crickett | https://codingchallenges.substack.com/
